@@ -1,0 +1,7 @@
+Как закомитеть в git:
+git add .
+git commit -m "vue router setup"
+git push
+
+запуск сервера
+php artisan serve
