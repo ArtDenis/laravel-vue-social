@@ -1,6 +1,6 @@
 Как закомитеть в git:
 git add .
-git commit -m "start styles add"
+git commit -m "reusing components ui added"
 git push
 
 запуск серверов
