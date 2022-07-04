@@ -5,3 +5,6 @@ git push
 
 запуск сервера
 php artisan serve
+
+запросить пути api
+php artisan route:list
