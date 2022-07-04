@@ -1,6 +1,6 @@
 Как закомитеть в git:
 git add .
-git commit -m "reusing components ui added"
+git commit -m "added vuex"
 git push
 
 запуск серверов
