@@ -1,10 +1,12 @@
 Как закомитеть в git:
 git add .
-git commit -m "vue router setup"
+git commit -m "laravel login create"
 git push
 
-запуск сервера
+запуск серверов
 php artisan serve
+npm run watch
+
 
 запросить пути api
 php artisan route:list
