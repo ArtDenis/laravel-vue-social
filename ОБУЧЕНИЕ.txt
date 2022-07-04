@@ -1,6 +1,6 @@
 Как закомитеть в git:
 git add .
-git commit -m "laravel login create"
+git commit -m "start styles add"
 git push
 
 запуск серверов

@@ -1,5 +1,9 @@
 <template>
-    <h1 class="container">Vue Router!</h1>
+    <div class="container">
+        <h1>Vue Router!</h1>
+        <my-input></my-input>
+        <my-button>Регистрация</my-button>
+    </div>
 </template>
 
 <script>
