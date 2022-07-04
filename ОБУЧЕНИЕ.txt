@@ -1,6 +1,6 @@
 Как закомитеть в git:
 git add .
-git commit -m "added vuex"
+git commit -m "middleware part 1"
 git push
 
 запуск серверов
